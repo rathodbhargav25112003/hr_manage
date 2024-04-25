@@ -1,0 +1,1 @@
+ C:\\Project\\hr_manage\\.dart_tool\\flutter_build\\ae36def65bb85bf4b07f9ce75a45b1f6\\native_assets.yaml: 
